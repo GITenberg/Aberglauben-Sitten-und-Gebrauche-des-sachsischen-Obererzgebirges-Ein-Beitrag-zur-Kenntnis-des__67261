@@ -1,11 +1,16 @@
 _repo: Aberglauben-Sitten-und-Gebrauche-des-sachsischen-Obererzgebirges-Ein-Beitrag-zur-Kenntnis-des__67261
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67261-h/images/cover.jpg
 creator:
   author:
     agent_name: Spieß, Moritz
     gutenberg_agent_id: '54180'
     url: http://www.gutenberg.org/2009/agents/54180
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67261#Aberglauben-Sitten-und-Gebrauche-des-sachsischen-Obererzgebirges-Ein-Beitrag-zur-Kenntnis-des_
 gutenberg_issued: '2022-01-28'
 identifiers:
   gutenberg: '67261'
